@@ -6,7 +6,7 @@ As You may or may not know, I Am A Huge Fan Of The Hit Roblox experience Called 
 
 Well, an hour before the release of "PIG 64" - A Piggy Game Inspired By Super Mario 64. I decided to tell ChatGPT to write Me a Python app that looked like this:
 
-![PIG64]([Images/pog64app.png](https://github.com/FDJASVS-X/.github/blob/main/Images/pog64app.png)
+![PIG64](https://github.com/FDJASVS-X/.github/blob/main/Images/pog64app.png)
 
 ## How It All Started...
 So, I was trolling one of my friends with a "FDJASVS X" - A Fake Executor written in Python By ChatGPT and It Looked like This: 
